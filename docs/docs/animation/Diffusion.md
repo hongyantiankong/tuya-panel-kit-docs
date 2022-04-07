@@ -31,7 +31,7 @@ import { Diffusion } from 'tuya-panel-kit';
 // import Diffusion from 'tuya-panel-animation-diffusion';
 
 <Diffusion color="#0ff" number={3}>
-  <View style={{ width: 80, height: 80, borderRadius: 40, backgroundColor: '#0ff' }} />
+  <View style={{ width: 80, height: 20, borderRadius: 10, backgroundColor: '#0ff' }} />
 </Diffusion>
 ```
 
